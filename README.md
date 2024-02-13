@@ -105,7 +105,7 @@ We welcome contributions from the community! If you'd like to improve FormatFusi
 
 ### License:
 
-FormatFusion-CLI is distributed under the [license name] license. See the LICENSE file for details.
+FormatFusion-CLI is distributed under the [MIT LICENSE](LICENSE) license. See the LICENSE file for details.
 
 ### Requirements
 
