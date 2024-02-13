@@ -101,7 +101,7 @@ The general usage format is:
 
 ### Contributing:
 
-We welcome contributions from the community! If you'd like to improve FormatFusion-CLI, please refer to the CONTRIBUTING.md file for guidelines.
+We welcome contributions from the community! If you'd like to improve FormatFusion-CLI, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
 ### License:
 
